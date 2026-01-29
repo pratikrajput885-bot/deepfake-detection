@@ -591,7 +591,7 @@ if uploaded_file is not None:
 # Footer
 st.markdown("""
 <div class="footer">
-    <p><strong>DeepFake Detection System</strong> | Final Year Project 2024-2025</p>
+    <p><strong>DeepFake Detection System</strong> | </p>
     <p>Powered by Computer Vision & Machine Learning</p>
     <p style="margin-top: 20px; font-size: 12px;">
         ⚠️ This tool provides probability-based predictions. Always verify important content through multiple sources.
