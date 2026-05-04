@@ -1,6 +1,6 @@
 """
  Deepfake Detection System
-Advanced AI-powered video analysis with multiple detection algorithms
+Advanced video analysis with multiple detection algorithms
 """
 
 import streamlit as st
